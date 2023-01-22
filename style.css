@@ -72,3 +72,6 @@ header {
     color: #000!important;
     background-color: #ccb99f;
 }
+#footer i{
+    padding-right: 10px;
+}
